@@ -5,3 +5,10 @@ rvm:
 - 2.1.0
 - 2.0.0
 - 1.9.3
+deploy:
+  provider: heroku
+  api_key:
+    secure: FMO/muHygTevs85RGLNg1uWGlLIn5e+qZ1Rq8gIYdhd+VI8poxEYQ/QSFRC7Mex3kqAUcNF7kXwSijNcZPdopYgx8O+6ctmLBNCUXiP2Udu/sZM6tJYVFNEEuDhQLKyZcycx/zLcIcDVSVoENcrxBjAOdOUu87STekJ6b4AkPdE=
+  app: ruboty-tfrkd-slack
+  on:
+    repo: furu/ruboty-tfrkd-slack
