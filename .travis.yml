@@ -8,3 +8,6 @@ deploy:
   app: ruboty-tfrkd-slack
   on:
     repo: furu/ruboty-tfrkd-slack
+notifications:
+  slack:
+    secure: WQFMMDca/hpeTJr2n1SUQfv1SryWuk2CRtbhabyOYQ096HQv4tvoeou8eL1PVZcgUy0ogWcmuY+Th/RFh/Ef8Fw5MxlNU3M7v1TyVlDClT05OeT5hd+AroMFfcOF/JVYihXqaPhYyjDNnUgLdwS7ltQXY+fJywjXDVaiXB3MLpQ=
