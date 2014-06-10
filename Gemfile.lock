@@ -21,6 +21,7 @@ GEM
     minitest (5.3.4)
     multi_xml (0.5.5)
     multipart-post (2.0.0)
+    rake (10.3.2)
     redis (3.0.7)
     redis-namespace (1.4.1)
       redis (~> 3.0.4)
@@ -62,6 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  rake
   ruboty
   ruboty-google_image
   ruboty-redis

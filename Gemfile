@@ -11,3 +11,5 @@ gem "ruboty-redis"
 # Handler
 gem "ruboty-google_image"
 gem "ruboty-syoboi_calendar"
+
+gem "rake"
