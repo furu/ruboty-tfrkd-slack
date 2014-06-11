@@ -46,6 +46,10 @@ GEM
       activesupport
       ruboty
       syoboi_calendar (= 0.3.1)
+    ruboty-weather (0.0.3)
+      faraday
+      faraday_middleware
+      ruboty (>= 0.2.0)
     slop (3.5.0)
     syoboi_calendar (0.3.1)
       activesupport
@@ -69,3 +73,4 @@ DEPENDENCIES
   ruboty-redis
   ruboty-slack
   ruboty-syoboi_calendar
+  ruboty-weather
