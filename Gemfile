@@ -12,5 +12,6 @@ gem "ruboty-redis"
 gem "ruboty-google_image"
 gem "ruboty-syoboi_calendar"
 gem "ruboty-weather"
+gem "ruboty-cron"
 
 gem "rake"
